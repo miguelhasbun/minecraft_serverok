@@ -25,13 +25,16 @@
 
 7. Estando en minecraft en la opción _multiplayer_ agregamos el siguiente servidor **CarlosWar11.aternos.me:40356** y esperamos a que los host lo enciendan.
 
-8. **Diviértete**.
+8. Enviar tu usuario para agregarlo a la lista de usuarios permitidos en el server.
+
+9. **Diviértete**.
 
 
 ## **REQUISITOS PREVIOS**
 
 - [Java](https://www.java.com/es/download/ie_manual.jsp)
 - Minecraft
+- +8GB de RAM
 
 **NOTA IMPORTANTE: 
 EL SERVIDOR SOPORTA UN MÁXIMO DE 20 PERSONAS AL MISMO TIEMPO.**
