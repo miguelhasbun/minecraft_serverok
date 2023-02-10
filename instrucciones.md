@@ -4,11 +4,11 @@
 
 1. Ingresar al siguiente [link](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.19.2.html) e instalar la versión **1.19.2- 43.2.4.**
 
-![](https://github.com/miguelhasbun/minecraft_serverok/blob/main/images/descarga_%20minecraft.png)
+![](https://github.com/miguelhasbun/minecraft_serverok/blob/main/images/new_descarga_forge.png)
 
 2. Instalar la primera opción del cliente, dar siguiente y continuar.
 
-![](https://github.com/miguelhasbun/minecraft_serverok/blob/main/images/descarga_%20minecraft.png)
+![](https://github.com/miguelhasbun/minecraft_serverok/blob/main/images/instalador.png)
 
 3. El siguiente paso es entrar al explorador de archivos en nuestra computadora y buscar la dirección **%appdata%**. 
 
@@ -23,7 +23,7 @@
     ![]( https://github.com/miguelhasbun/minecraft_serverok/blob/main/images/capacidad.png)
    
    >**Nota:**
-   >En la sección se muestra una imagen con una versión anterior del forge.
+   >En la sección 5 se muestra una imagen con una versión anterior del forge.
 
 6. Abrir minecraft y esperar que se instalen los mods locales (esto sucederá cada vez que se inicie minecraft).
 
