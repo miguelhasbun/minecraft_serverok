@@ -12,7 +12,7 @@
 
 3. El siguiente paso es entrar al explorador de archivos en nuestra computadora y buscar la dirección **%appdata%**. 
 
-4. Estando en appdata, buscamos la carpeta **.minecraft** y en ella revisamos que esté la carpeta _mods_, sino procedemos a crearla y pegamos los archivos descomprimidos descargados del [drive](https://drive.google.com/file/d/1aU11lgaPjfOTG7aP005XT3UtZ56OwefC/view?usp=sharing).
+4. Estando en appdata, buscamos la carpeta **.minecraft** y en ella revisamos que esté la carpeta _mods_, sino procedemos a crearla y pegamos los archivos descomprimidos descargados del [drive](https://drive.google.com/drive/folders/1639pnRFW30KkdPhxunCPhvKwLCUUoxqU?usp=sharing) (descargar la versión 2 y 2.2).
 
 5. Abrimos nuestro launcher y esperamos que se instale. Por defecto tiene 2GB de memoria asignado, en caso de tener problemas cambiar a 6GB de la siguiente manera:
 
