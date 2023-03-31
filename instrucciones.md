@@ -2,7 +2,7 @@
 
 **UNA VEZ CUMPLIDOS LOS REQUISITOS PREVIOS, SEGUIR LOS SIGUIENTES PASOS:**
 
-1. Ingresar al siguiente [link](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.19.2.html) e instalar la versión **1.19.2- 43.2.4.**
+1. Ingresar al siguiente [link](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.19.2.html) e instalar la versión **1.19.2- 43.2.8.**
 
 ![](https://github.com/miguelhasbun/minecraft_serverok/blob/main/images/version_3_mods3.png)
 
