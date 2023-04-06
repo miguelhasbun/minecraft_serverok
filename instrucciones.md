@@ -12,7 +12,7 @@
 
 3. El siguiente paso es entrar al explorador de archivos en nuestra computadora y buscar la dirección **%appdata%**. 
 
-4. Estando en appdata, buscamos la carpeta **.minecraft** y en ella revisamos que esté la carpeta _mods_, sino procedemos a crearla y pegamos los archivos descomprimidos descargados del [drive](https://drive.google.com/file/d/1SWlw-PDb2Fl_7-lT_bA-C8gaLm1Bpuqc/view?usp=sharing).
+4. Estando en appdata, buscamos la carpeta **.minecraft** y en ella revisamos que esté la carpeta _mods_, sino procedemos a crearla y pegamos los archivos descomprimidos descargados del [drive](https://drive.google.com/file/d/1ud6vDMetk1LyI_pMMn10mZGkdmq5836b/view?usp=share_link).
 
 5. Abrimos nuestro launcher y esperamos que se instale. Por defecto tiene 2GB de memoria asignado, en caso de tener problemas cambiar a 6GB de la siguiente manera:
 
@@ -46,3 +46,4 @@
 
 **NOTA IMPORTANTE: 
 EL SERVIDOR SOPORTA UN MÁXIMO DE 20 PERSONAS AL MISMO TIEMPO.**
+@MP04/06/2023
