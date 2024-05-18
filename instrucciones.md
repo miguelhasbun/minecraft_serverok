@@ -2,13 +2,13 @@
 
 **UNA VEZ CUMPLIDOS LOS REQUISITOS PREVIOS, SEGUIR LOS SIGUIENTES PASOS:**
 
-1. Ingresar al siguiente [link](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.19.2.html) e instalar la versión **1.19.2- 43.2.8.**
+1. Descargar e instalar [CurseForge](https://www.curseforge.com/download/app).
 
-![](https://github.com/miguelhasbun/minecraft_serverok/blob/main/images/version_3_mods3.png)
+2. Ingresamos a minecraft Java Edition.
 
-2. Instalar la primera opción del cliente, dar siguiente y continuar.
+3. Luego buscamos el pack de mods **Create Above and Beyond**
 
-![](https://github.com/miguelhasbun/minecraft_serverok/blob/main/images/instalador.png)
+4. Cambiar memoria ram para el servidor (mínimo 6 GB ó 6144mb).
 
 3. El siguiente paso es entrar al explorador de archivos en nuestra computadora y buscar la dirección **%appdata%**. 
 
